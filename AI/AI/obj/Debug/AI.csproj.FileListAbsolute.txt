@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\ИИ\AI\AI\bin\Debug\AI.exe.config
+D:\Мой диск\Projects\ИИ\AI\AI\bin\Debug\AI.exe
+D:\Мой диск\Projects\ИИ\AI\AI\bin\Debug\AI.pdb
+D:\Мой диск\Projects\ИИ\AI\AI\obj\Debug\AI.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\ИИ\AI\AI\obj\Debug\AI.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\ИИ\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\ИИ\AI\AI\obj\Debug\AI.exe
+D:\Мой диск\Projects\ИИ\AI\AI\obj\Debug\AI.pdb
